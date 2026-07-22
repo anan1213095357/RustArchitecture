@@ -10,7 +10,8 @@
 </div>
 
 ---
-![Uploading image.png…]()
+
+<img width="2559" height="1431" alt="image" src="https://github.com/user-attachments/assets/63d7a738-606e-4875-ba43-771d2d310393" />
 
 
 ## 🚀 核心灵魂：Rust 级别的纯正吸附算法
