@@ -10,6 +10,8 @@
 </div>
 
 ---
+![Uploading image.png…]()
+
 
 ## 🚀 核心灵魂：Rust 级别的纯正吸附算法
 
